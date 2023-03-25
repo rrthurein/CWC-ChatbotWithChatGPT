@@ -1,0 +1,23 @@
+{
+  "name": "cwc-chatbotwithchatgpt",
+  "version": "1.0.0",
+  "description": "Following a tutorial that builds Chat-GPT Chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrthurein/CWC-ChatbotWithChatGPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrthurein/CWC-ChatbotWithChatGPT/issues"
+  },
+  "homepage": "https://github.com/rrthurein/CWC-ChatbotWithChatGPT#readme",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
